@@ -1,0 +1,7 @@
+{
+  "name": "Compusys Point",
+  "description": "Compusys Point - CRM",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
